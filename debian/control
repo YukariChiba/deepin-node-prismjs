@@ -6,9 +6,6 @@ Uploaders: Pirate Praveen <praveen@debian.org>
 Build-Depends: chai <!nocheck>
  , debhelper-compat (= 13)
  , dh-sequence-nodejs
- , mocha <!nocheck>
- , node-jsdom <!nocheck>
- , node-yargs <!nocheck>
  , terser
 Standards-Version: 4.6.1
 Vcs-Browser: https://salsa.debian.org/js-team/node-prismjs
